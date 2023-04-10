@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Mental Education", "Physical Education"],
+        strings: ["(विद्यालय को मिलेंगे 2 करोड़ रुपए)"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
